@@ -1,0 +1,3 @@
+#!bin/sh
+#!xrander --output HDMI-2 --rigth-of eDP-1
+setxkbmap -layout "us,ru" -option 'grp:alt_space_toggle,grp_leg:scrol'
